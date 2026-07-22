@@ -1,2 +1,3 @@
 # Git-github
-devops training 
+this is for learning purpose.
+
